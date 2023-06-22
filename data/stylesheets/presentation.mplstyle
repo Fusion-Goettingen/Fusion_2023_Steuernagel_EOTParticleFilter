@@ -1,0 +1,11 @@
+figure.figsize : 16, 9.6
+font.size : 20
+
+text.color :        003C68
+axes.edgecolor :    003C68
+xtick.color :       003C68
+ytick.color :       003C68
+axes.labelcolor :   003C68
+
+# image saving
+savefig.format: png

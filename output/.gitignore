@@ -1,0 +1,4 @@
+results/**/*.npy
+results/**/*.svg
+results/**/*.tex
+results/**/*.png
